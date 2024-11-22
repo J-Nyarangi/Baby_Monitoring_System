@@ -72,5 +72,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 ## **Contributors**
-- **Your Name** - *Nyarangi Joyllette*
+- *Nyarangi Joyllette*
 
