@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # **Baby Monitoring System**
 
 ## **Overview**
