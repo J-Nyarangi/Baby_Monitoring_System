@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1029565128403",
+    "firebase_url": "https://babymonitor-60812-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "babymonitor-60812",
+    "storage_bucket": "babymonitor-60812.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029565128403:android:5945f7ede103cb42653e26",
+        "android_client_info": {
+          "package_name": "com.example.baby_monitoring_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcUo3oLH0TJStZpOzi46mfxWdkcsDxGWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
