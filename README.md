@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
 # **Baby Monitoring System**
 
 ## **Overview**
@@ -74,3 +76,26 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## **Contributors**
 - *Nyarangi Joyllette*
 
+=======
+=======
+>>>>>>> 2dfae14ae2d79757e0d4893a2f2ea6e44ac8e824
+# baby_monitoring_app
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+<<<<<<< HEAD
+>>>>>>> 2dfae14 (Dart files for app)
+=======
+>>>>>>> 2dfae14ae2d79757e0d4893a2f2ea6e44ac8e824
